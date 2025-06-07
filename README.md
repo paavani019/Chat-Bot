@@ -12,7 +12,7 @@ To use chatbot
 
 # Team members 
 1) Aditya Garg
-2) Pawani Karuturi
+2) Paavani Karuturi
 3) Awantika Mallick
 4) Naresh Chandanbatve
 
